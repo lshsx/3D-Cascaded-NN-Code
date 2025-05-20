@@ -45,6 +45,6 @@ pip install -r requirements.txt
 * MRI NIfTI files (`.nii` or `.nii.gz`) should be placed in a folder like:
 
 ```
-./data/24train_heatmap影像/AD/
+./data/24train/AD/
 ```
 
